@@ -2,13 +2,13 @@
 
 ## Atom 설치 
 
-```
+```bash
 $ brew cask install atom
 ```
 
 ## vim 관련 package 설치 
 
-```
+```bash
 $ atm install vim-mode-plus vim-mode-plus-ex-mode
 ```
 

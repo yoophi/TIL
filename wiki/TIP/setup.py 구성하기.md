@@ -4,7 +4,7 @@
 아래와 같이 간단하게 구성할 수 있다.
 
 
-```
+```python
 from distutils.core import setup
 from setuptools import find_packages
 

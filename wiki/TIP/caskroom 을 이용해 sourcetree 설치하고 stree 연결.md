@@ -1,6 +1,6 @@
 # SourceTree 설치 및 `stree` 심볼릭 링크
 
-```
+```bash
 $ brew cask install sourcetree
 ```
 
@@ -14,6 +14,6 @@ $ brew cask install sourcetree
 아래와 같은 명령으로 `brew cask` 를 이용해 설치된 SourceTree 의 `stree` 를 
 심볼릭 링크해주면 된다.
 
-```
+```bash
 $ ln -s $HOME/Applications/SourceTree.app/Contents/Resources/stree /usr/local/bin/
 ```
